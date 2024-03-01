@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ice Task 1</string>
+    <string name="HelloWorld" />
+    <string name="Namaste" />
+    <string name="Nihao" />
+    <string name="Hola" />
+    <string name="Ciao" />
+</resources>
